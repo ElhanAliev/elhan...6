@@ -126,4 +126,4 @@ btnOpen11.addEventListener('click', () =>{
 
 
 const message = prompt('HELLO! What is your name?')
-alert (`${message} welcome to my web-page🙃😉`)
+alert (`${message} welcome to my web-page`)
